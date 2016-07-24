@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Tab_menu_Demo" />
+            <option value="$PROJECT_DIR$/amap_3d_demo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/businesstriphelper" />
+            <option value="$PROJECT_DIR$/coolweather" />
+            <option value="$PROJECT_DIR$/loaddemo" />
+            <option value="$PROJECT_DIR$/mycalendertest" />
+            <option value="$PROJECT_DIR$/mytest4_1" />
+            <option value="$PROJECT_DIR$/mytest4_2" />
+            <option value="$PROJECT_DIR$/mytest4_3" />
+            <option value="$PROJECT_DIR$/mytest4_4" />
+            <option value="$PROJECT_DIR$/mytest5_1" />
+            <option value="$PROJECT_DIR$/mytest5_2" />
+            <option value="$PROJECT_DIR$/mytest6_44" />
+            <option value="$PROJECT_DIR$/mytest7_1" />
+            <option value="$PROJECT_DIR$/mytest7_2" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Tab_menu_Demo" />
+            <option value="$PROJECT_DIR$/amap_3d_demo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/businesstriphelper" />
+            <option value="$PROJECT_DIR$/coolweather" />
+            <option value="$PROJECT_DIR$/loaddemo" />
+            <option value="$PROJECT_DIR$/mycalendertest" />
+            <option value="$PROJECT_DIR$/mytest4_1" />
+            <option value="$PROJECT_DIR$/mytest4_2" />
+            <option value="$PROJECT_DIR$/mytest4_3" />
+            <option value="$PROJECT_DIR$/mytest4_4" />
+            <option value="$PROJECT_DIR$/mytest5_1" />
+            <option value="$PROJECT_DIR$/mytest5_2" />
+            <option value="$PROJECT_DIR$/mytest6_44" />
+            <option value="$PROJECT_DIR$/mytest7_1" />
+            <option value="$PROJECT_DIR$/mytest7_2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

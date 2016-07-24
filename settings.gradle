@@ -1,0 +1,1 @@
+include ':app', ':mytest4_1', ':mytest4_2', ':mytest4_3', ':mytest4_4', ':mytest5_1', ':mytest5_2', ':mytest6_44', ':loaddemo', ':mytest7_1', ':mytest7_2', ':businesstriphelper', ':coolweather', ':mycalendertest', 'Tab_menu_Demo', 'amap_3d_demo'

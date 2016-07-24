@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2.iml" filepath="$PROJECT_DIR$/MyApplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tab_menu_Demo/Tab_menu_Demo.iml" filepath="$PROJECT_DIR$/Tab_menu_Demo/Tab_menu_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amap_3d_demo/amap_3d_demo.iml" filepath="$PROJECT_DIR$/amap_3d_demo/amap_3d_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businesstriphelper/businesstriphelper.iml" filepath="$PROJECT_DIR$/businesstriphelper/businesstriphelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coolweather/coolweather.iml" filepath="$PROJECT_DIR$/coolweather/coolweather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loaddemo/loaddemo.iml" filepath="$PROJECT_DIR$/loaddemo/loaddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycalendertest/mycalendertest.iml" filepath="$PROJECT_DIR$/mycalendertest/mycalendertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest4_1/mytest4_1.iml" filepath="$PROJECT_DIR$/mytest4_1/mytest4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest4_2/mytest4_2.iml" filepath="$PROJECT_DIR$/mytest4_2/mytest4_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest4_3/mytest4_3.iml" filepath="$PROJECT_DIR$/mytest4_3/mytest4_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest4_4/mytest4_4.iml" filepath="$PROJECT_DIR$/mytest4_4/mytest4_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest5_1/mytest5_1.iml" filepath="$PROJECT_DIR$/mytest5_1/mytest5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest5_2/mytest5_2.iml" filepath="$PROJECT_DIR$/mytest5_2/mytest5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest6_44/mytest6_44.iml" filepath="$PROJECT_DIR$/mytest6_44/mytest6_44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest7_1/mytest7_1.iml" filepath="$PROJECT_DIR$/mytest7_1/mytest7_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest7_2/mytest7_2.iml" filepath="$PROJECT_DIR$/mytest7_2/mytest7_2.iml" />
+    </modules>
+  </component>
+</project>
